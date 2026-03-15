@@ -29,6 +29,22 @@ Real-time messaging application built using Flutter and Firebase backend.
 ### 🌐 Social Media Platform
 Full stack social media application built with React (Frontend) and Node.js (Backend).
 
+### 🏢 Almudeer HR System
+HR management mobile application built with Flutter that allows employees to request loans, vacations, submit complaints, and view HR updates.
+
+🔗 Project Overview: https://play.google.com/store/apps/details?id=com.almudeer.hr&hl=en
+
+
+### 🧑‍💼 Volt HRMS
+Enterprise HR management mobile application developed using Flutter for employee management, attendance tracking, and HR services.
+
+🔗 Company Product: https://play.google.com/store/apps/details?id=com.TGP.VOLT&hl=en
+
+
+### ⏱ Volt Clock
+Employee attendance and clock-in system integrated with Volt HRMS for managing working hours and employee check-ins.
+
+🔗 Product Page: https://play.google.com/store/apps/details?id=com.tgp.clock&hl=en
 ---
 
 ## 📫 Contact
