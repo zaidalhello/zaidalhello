@@ -44,7 +44,7 @@ Enterprise HR management mobile application developed using Flutter for employee
 ### ⏱ Volt Clock
 Employee attendance and clock-in system integrated with Volt HRMS for managing working hours and employee check-ins.
 
-🔗 Product Page: https://play.google.com/store/apps/details?id=com.tgp.clock&hl=en
+🔗 Project Overview: https://play.google.com/store/apps/details?id=com.tgp.clock&hl=en
 ---
 
 ## 📫 Contact
