@@ -1,4 +1,4 @@
-# Hi 👋 I'm Zaid Alhello
+# Hi 👋 I'm Zaid Alhelo
 
 Flutter Developer & Full-Stack Developer based in UAE.
 
