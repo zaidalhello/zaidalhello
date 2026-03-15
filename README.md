@@ -1,54 +1,78 @@
-# Hi 👋 I'm Zaid Alhelo
+<h1 align="center">Hi 👋, I'm Zaid Alhelo</h1>
+<h3 align="center">Flutter & Full-Stack Developer · UAE 🇦🇪</h3>
 
-Flutter Developer & Full-Stack Developer based in UAE.
 
-I build mobile applications, HR systems, and modern web applications using Flutter, React, and Node.js.
-
----
-
-## 🚀 Tech Stack
-
-Flutter / Dart  
-React.js  
-Node.js  
-JavaScript  
-Supabase  
-REST APIs  
-Git  
 
 ---
 
-## 📱 Featured Projects
+### 👨‍💻 About Me
 
-### 🛒 Mini E-Commerce App
-Full mobile shopping experience with authentication, product browsing, and cart system built using Flutter and Firebase.
-
-### 💬 Chat Application
-Real-time messaging application built using Flutter and Firebase backend.
-
-### 🌐 Social Media Platform
-Full stack social media application built with React (Frontend) and Node.js (Backend).
-
-### 🏢 Almudeer HR System
-HR management mobile application built with Flutter that allows employees to request loans, vacations, submit complaints, and view HR updates.
-
-🔗 Project Overview: https://play.google.com/store/apps/details?id=com.almudeer.hr&hl=en
-
-
-### 🧑‍💼 Volt HRMS
-Enterprise HR management mobile application developed using Flutter for employee management, attendance tracking, and HR services.
-
-🔗 Company Product: https://play.google.com/store/apps/details?id=com.TGP.VOLT&hl=en
-
-
-### ⏱ Volt Clock
-Employee attendance and clock-in system integrated with Volt HRMS for managing working hours and employee check-ins.
-
-🔗 Project Overview: https://play.google.com/store/apps/details?id=com.tgp.clock&hl=en
+- 🔭 I build **mobile apps, HR systems, and full-stack web applications**
+- 🌍 Based in **UAE**
+- 💼 Specialized in **Flutter, React.js, and Node.js**
+- 📱 I have **3 live apps** published on the Google Play Store
+- 📫 Reach me at **zaid.alhello22@gmail.com**
 
 ---
 
-## 📫 Contact
+### 🛠️ Tech Stack
 
-📧 Email: zaid.alhello22@gmail.com  
-📍 Location: UAE  
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| 🏢 **Almudeer HR System** | Cross-platform HR app (Android & iOS) — loans, vacations, complaints & announcements | Flutter · Dart · REST API | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.almudeer.hr&hl=en) |
+| 🧑‍💼 **Volt HRMS** | Enterprise HR platform for employee management & attendance tracking | Flutter · Dart · REST API | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.TGP.VOLT&hl=en) |
+| ⏱️ **Volt Clock** | Smart clock-in/out system integrated with Volt HRMS | Flutter · Dart · REST API | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tgp.clock&hl=en) |
+| 🌐 **Social Media Platform** | Full-stack social app with posts, feeds & follows | React · Node.js · JavaScript | — |
+| 🛒 **Mini E-Commerce App** | Mobile shopping app with auth, product browse & cart | Flutter · Firebase | — |
+| 💬 **Chat Application** | Real-time messaging with live updates | Flutter · Firebase | — |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidalhello&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidalhello&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zaidalhello&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+<p align="left">
+
+<a href="mailto:zaid.alhello22@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/zaid-alhelo">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Clean code. Real impact. Shipped products. 🚀"</i>
+</p>
